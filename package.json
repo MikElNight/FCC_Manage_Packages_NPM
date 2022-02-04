@@ -3,6 +3,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"description": "This is a simple test",
 	"keywords": [ "testing", "MikeElNight", "freecodecamp" ],
+	"license": "Personal Use",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
