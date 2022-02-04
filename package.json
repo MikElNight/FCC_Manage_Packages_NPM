@@ -4,8 +4,10 @@
 	"description": "This is a simple test",
 	"keywords": [ "testing", "MikeElNight", "freecodecamp" ],
 	"license": "Personal Use",
+	"version": "1.2.0",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment": "~2.10.2"
 	},
 	"main": "server.js",
 	"scripts": {
