@@ -2,6 +2,7 @@
 	"author": "Luis Fonseca",
 	"name": "fcc-learn-npm-package-json",
 	"description": "This is a simple test",
+	"keywords": [ "testing", "MikeElNight", "freecodecamp" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
